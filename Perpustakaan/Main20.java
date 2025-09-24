@@ -18,7 +18,7 @@ public class Main20 {
 
         // Coba pinjam buku yang sama
         System.out.println(tp.pinjamBuku(a1, b1));
-
+        
         // Kembalikan buku
         System.out.println(tp.kembalikanBuku("P001"));
         System.out.println(tp.tampilkanDataPeminjaman());
